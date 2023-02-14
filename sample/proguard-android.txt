@@ -1,0 +1,3 @@
+ -keep class com.sopan.sweet_alert.pack.Rotate3dAnimation {
+    public <init>(...);
+ }
